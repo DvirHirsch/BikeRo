@@ -77,9 +77,7 @@ const buyBike = function (value) {
   });
 };
  
-window.location.href === 'https://dviroshere.github.io/BikeRo/buyBike.html'
-  ? buyBike()
-  : '';
+window.location.href === 'https://dviroshere.github.io/BikeRo/buyBike.html' ? buyBike() : '';
  
 myPage(buyBike, 'buyBike.html'); // call function
  
